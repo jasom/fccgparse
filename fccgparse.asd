@@ -9,6 +9,8 @@
                #:alexandria
 	       #:split-sequence
 	       #:parse-number
+	       #:cl-interpol
+	       #:esrap
 	       #:jtk)
   :components ((:file "package")
                (:file "fccgparse")))

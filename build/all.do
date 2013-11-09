@@ -1,1 +1,3 @@
+#this is not safely parallelable...
 redo-ifchange fccgparse
+redo-ifchange fccgparsec
